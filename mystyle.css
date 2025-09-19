@@ -6,7 +6,7 @@ body {
   color: #333;
 }
 
-/* Header ข้างบน*/
+
 header {
   background: #222;
   color: white;
@@ -37,7 +37,7 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Sections */
+
 section {
   padding: 30px;
   text-align: center;
@@ -53,7 +53,7 @@ section {
   margin-bottom: 20px;
 }
 
-/* Products สินค้า*/
+
 
 
 #products {
@@ -93,7 +93,7 @@ section {
   color: #555;
 }
 
-/* Footer ข่างล่าง*/
+
 footer {
   background: #222;
   color: white;
@@ -101,3 +101,4 @@ footer {
   padding: 15px;
   margin-top: 30px;
 }
+
